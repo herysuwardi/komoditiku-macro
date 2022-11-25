@@ -1,0 +1,49 @@
+.hero__detail {
+    margin-top: 8rem;
+    margin-bottom: 8rem;
+}
+
+.konten-img {
+    border-radius: 1rem;
+}
+
+.text-detailkursus {
+    margin-top: -18rem;
+    margin-bottom: 5rem;
+    margin-left: 3rem;
+}
+
+.text-detailkursus h1 {
+    margin-top: 4rem;
+    margin-bottom: 3rem;
+    color: #ffffff;
+    font-size: 35px;
+    font-weight: 700;
+}
+
+.text-detailkursus p {
+    color: #ffffff;
+    font-size: 22px;
+    font-weight: 500;
+}
+
+.card__buyer {
+    background-color: rgb(255, 255, 255);
+    margin-bottom: 3rem;
+    padding-top: 30px;
+    padding-bottom: 40px;
+    box-shadow: 0 4px 8px 0 rgb(221, 214, 214);
+    border-radius: 1rem;
+    border: 2px solid #005728;
+} 
+
+.card-buyer1 {
+    background-color: #F5F5F5;
+    border-radius: 1rem 1rem 0 0;
+    margin-top: -30px;
+    padding-top: 1rem;
+}
+
+.garis {
+    border-bottom: 2px solid #005728;
+}

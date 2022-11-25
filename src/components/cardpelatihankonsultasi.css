@@ -1,0 +1,54 @@
+.card__pelatihan {
+    background-color: rgb(255, 255, 255);
+    margin-top: 3rem;
+    margin-bottom: 6rem;
+    padding-top: 10px;
+    padding-bottom: 45px;
+    box-shadow: 0 4px 8px 0 rgb(221, 214, 214);
+    border-radius: 1rem;
+    border: 2px solid #005728;
+}   
+
+.card__pelatihan a{
+    margin-top: 2rem;
+    font-size: 17px;
+    font-weight: 500;
+    width: 45%;
+    border-radius: 10px;
+    background-color: #005728;
+    color: #ffffff;
+}
+
+.card__pelatihan:hover {
+    box-shadow: 0 6px 16px 6px rgb(225, 225, 225);
+    border: 2px solid #ffffff;
+}
+
+.card__pelatihan a:hover{
+    background-color: black;
+    color: #ffffff;
+    transition: all 0.3s ease-in-out;
+}
+
+.wrapper__konsultasi {
+    padding-left: 12rem;
+    padding-right: 12rem;
+}
+
+.wrapper__dokumentasi {
+    margin-bottom: 10rem;
+    margin-top: 4rem;
+}
+
+.wrapper__dokumentasi h1 {
+    font-size: 42px;
+}
+
+.wrapper__dokumentasi b {
+    color: #005728;
+}
+
+.wrapper__dokumentasi p {
+    font-size: 23px;
+    margin-bottom: 4rem;
+}

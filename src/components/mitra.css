@@ -1,0 +1,37 @@
+.text-mitra h1 {
+    font-size: 35px;
+    margin-top: 10rem;
+    color: #000000;
+    margin-bottom: 8rem;
+}
+
+.text-mitra b {
+    color: #005728;
+}
+
+.mitra-img {
+    margin-bottom: 5rem;
+    text-align: center;
+}
+
+.card__mitra {
+    background-color: #f7f7f7;
+    margin-top: 3rem;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-left: 6rem;
+    margin-right: 6rem;
+    margin-bottom: 8rem;
+    padding-right: 5rem;
+    padding-left: 5rem;
+    box-shadow: 0 3px 4px 0 rgb(221, 214, 214);
+    border-radius: 1rem;
+}
+
+.perikanan-mitra {
+    margin-top: 7px;
+}
+
+.lonsum-mitra {
+    margin-top: -3rem;
+}

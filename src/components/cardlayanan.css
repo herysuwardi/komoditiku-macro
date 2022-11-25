@@ -1,0 +1,91 @@
+/* components grid layanan */
+.wrapper__layanan {
+    margin-top: 15rem;
+    text-align: center;
+}
+
+.wrapper__layanan h1 {
+    font-size: 55px; 
+}
+
+.card__wrapper {
+    background-color: rgb(255, 255, 255);
+    margin-top: 3rem;
+    margin-bottom: 8rem;
+    padding-top: 30px;
+    padding-bottom: 40px;
+    box-shadow: 0 4px 8px 0 rgb(221, 214, 214);
+    border-radius: 1rem;
+    border: 2px solid #005728;
+}   
+
+.card__wrapper:hover {
+    box-shadow: 0 6px 16px 6px rgb(225, 225, 225);
+    border: 2px solid #ffffff;
+}
+
+.card__wrapper a {
+    margin-top: 10px;
+    font-size: 17px;
+    font-weight: 500;
+    width: 45%;
+    border-radius: 10px;
+    background-color: #005728;
+    color: #ffffff;
+}
+
+.card__wrapper a:hover{
+    background-color: black;
+    color: #ffffff;
+    transition: all 0.3s ease-in-out;
+}
+
+/* components mitra */
+
+.wrapper__mitra {
+    margin-top: 3rem;
+}
+
+.mitra1__icon {
+    margin-bottom: 3rem;
+    margin-left: 3rem;
+}
+
+.mitra2__icon {
+    margin-bottom: 3rem;
+    margin-left: 8rem;
+}
+
+.wrapper__mitra h1 {
+    font-size: 50px;
+}
+
+.wrapper__mitra b {
+    color: #005728;
+}
+
+.wrapper__mitra p {
+    margin-top: 2rem;
+    font-size: 22px;
+    margin-bottom: 3rem;
+}
+
+.btn-mitra {
+    background-color: #ffffff;
+    color: #005728;
+    text-decoration: none;
+    border-radius: 10px;
+    border: 2px solid #005728;
+    font-size: 20px;
+    font-weight: 500;
+    padding-left: 45px;
+    padding-right: 45px;
+    padding-top: 6px;
+    padding-bottom: 8px;
+}
+
+.btn-mitra:hover {
+    color: #ffffff;
+    background-color: #000000;
+    transition: all 0.3s ease-in-out;
+}

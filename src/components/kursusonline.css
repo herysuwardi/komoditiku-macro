@@ -1,0 +1,134 @@
+.kursus__img {
+    width: 100%;
+    height: auto;
+    background-color: rgba(190, 186, 186, 0.5);
+}
+
+.text-kursus h1 {
+    font-size: 55px;
+    margin-top: -18rem;
+    color: #ffffff;
+    margin-bottom: 3rem;
+}
+
+.text-courses h1 {
+    margin-top: 13rem;
+    font-size: 34px;
+    text-align: center;
+}
+
+.text-courses b {
+    color: #005728;
+}
+
+.text-courses p {
+    font-size: 23px;
+    margin-bottom: 5rem;
+}
+
+.text-courses {
+    margin-bottom: 5rem;
+}
+
+.btn-courses {
+    border-radius: 25px;
+    font-size: 20px;
+    font-weight: 600;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 8px;
+    padding-bottom: 10px;
+    margin-top: 2rem;
+    background-color: #ffffff;
+    color: #005728;
+    border: 2px solid #005728;
+    text-decoration: none;
+}
+
+.btn-courses:hover {
+    background-color: black;
+    color: #ffffff;
+    border: 2px solid #005728;
+    transition: all 0.3s ease-in-out;
+}
+
+.btn-ink {
+    border-radius: 25px;
+    font-size: 20px;
+    font-weight: 600;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 8px;
+    padding-bottom: 10px;
+    margin-top: 2rem;
+    background-color: #005728;
+    color: #ffffff;
+    border: 2px solid #005728;
+    text-decoration: none;
+}
+
+.btn-outk {
+    border-radius: 25px;
+    font-size: 20px;
+    font-weight: 600;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 8px;
+    padding-bottom: 10px;
+    margin-top: 2rem;
+    background-color: #ffffff;
+    color: #005728;
+    border: 2px solid #005728;
+    text-decoration: none;
+}
+
+.btn-ink:hover {
+    background-color: #005728;
+    color: #ffffff;
+    transition: all 0.3s ease-in-out;
+}
+
+.btn-outk:hover {
+    background-color: #005728;
+    color: #ffffff;
+    transition: all 0.3s ease-in-out;
+}
+
+.wrapper__kursusonline {
+    margin-bottom: 8rem;
+}
+
+.card-inkursus {
+    background-color: #F5F5F5;
+    border-radius: 10px 10px 0 0;
+    border-bottom: 2px solid #005728;
+}
+
+.card__courses {
+    background-color: rgb(255, 255, 255);
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    margin-bottom: 3rem;
+    box-shadow: 0 4px 8px 0 rgb(221, 214, 214);
+    border-radius: 1rem;
+    border: 2px solid #005728;
+}
+
+.card__courses:hover {
+    box-shadow: 0 6px 16px 6px rgb(225, 225, 225);
+    border: 2px solid #ffffff;
+}
+
+.card__courses a {
+    border-radius: 10px;
+    background-color: #005728;
+    color: #ffffff;
+}
+
+.card__courses a:hover{
+    background-color: black;
+    color: #ffffff;
+    transition: all 0.3s ease-in-out;
+}

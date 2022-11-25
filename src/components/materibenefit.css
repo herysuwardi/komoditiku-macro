@@ -1,0 +1,69 @@
+.card__benefit {
+    background-color: rgb(255, 255, 255);
+    margin-top: 6rem;
+    margin-bottom: 8rem;
+    padding-top: 30px;
+    margin-left: 8rem;
+    margin-right: 8rem;
+    box-shadow: 0 5px 10px 0 rgb(161, 161, 161);
+    border-radius: 1rem;
+    border: 2px solid #005728;
+}   
+
+.hijau {
+    background-color: #005728;
+    color: #ffffff;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    margin-left: 11px;
+    margin-top: -31px !important;
+    margin-bottom: -1px;
+    border-radius: 1rem 0 0 1rem;
+}
+
+.hijau p {
+    margin-left: 2rem;
+}
+
+.wrapper__benefit h1 {
+    font-size: 33px;
+    margin-bottom: 2rem;
+    font-weight: 700;
+    text-decoration: underline;
+}
+
+.wrapper__benefit b {
+    font-size: 18px;
+}
+
+.wrapper__benefit i {
+    font-size: 25px;
+}
+
+.putih {
+    margin-left: 2rem;
+    color: #005728;
+}
+
+.putih h1 {
+    margin-left: 4rem;
+}
+
+.wrapper__lainnya {
+    margin-bottom: 6rem;
+}
+
+.wrapper__lainnya b {
+    color: #005728;
+    font-size: 50px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.wrapper__lainnya h1 {
+    margin-bottom: 4rem;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 600;
+}
+

@@ -1,0 +1,22 @@
+.wrapper__comment {
+    padding: 8rem;
+}
+
+.wrapper__comment h1 b{
+    color: #005728;
+}
+
+.wrapper__comment a {
+    margin-top: 2rem;
+    background-color: #005728;
+    color: #ffffff;
+    width: 30%;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.wrapper__comment a:hover {
+    background-color: black;
+    color: #ffffff;
+    transition: all 0.3s ease-in-out;
+}

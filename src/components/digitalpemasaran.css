@@ -1,0 +1,88 @@
+.digital__img {
+    width: 100%;
+    height: auto;
+}
+
+.text-pemasaran h1 {
+    font-size: 55px;
+    margin-top: -18rem;
+    color: #ffffff;
+    margin-bottom: 3rem;
+}
+
+.btn-pemasaran {
+    border-radius: 25px;
+    font-size: 20px;
+    font-weight: 600;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 8px;
+    padding-bottom: 10px;
+    margin-top: 2rem;
+    background-color: #ffffff;
+    color: #005728;
+    border: 2px solid #005728;
+    text-decoration: none;
+}
+
+.btn-pemasaran:hover {
+    background-color: black;
+    color: #ffffff;
+    border: 2px solid #005728;
+    transition: all 0.3s ease-in-out;
+}
+
+.text-digital h1 {
+    margin-top: 13rem;
+    font-size: 35px;
+    text-align: center;
+}
+
+.text-digital b {
+    color: #005728;;
+}
+
+.text-digital p {
+    font-size: 25px;
+    margin-bottom: 4rem;
+}
+
+.wrapper__digitalpemasaran {
+    margin-bottom: 5rem;
+}
+
+.card-deskripsi {
+    background-color: #F5F5F5;
+    padding-top: 2rem;
+    border-radius: 10px 10px 0 0;
+    border-bottom: 2px solid #005728;
+}
+
+.card__digital {
+    background-color: rgb(255, 255, 255);
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    margin-bottom: 3rem;
+    box-shadow: 0 4px 8px 0 rgb(221, 214, 214);
+    border-radius: 1rem;
+    border: 2px solid #005728;
+}
+
+.card__digital:hover {
+    box-shadow: 0 6px 16px 6px rgb(225, 225, 225);
+    border: 2px solid #ffffff;
+}
+
+.card__digital a {
+    border-radius: 10px;
+    background-color: #005728;
+    color: #ffffff;
+}
+
+.card__digital a:hover{
+    background-color: black;
+    color: #ffffff;
+    transition: all 0.3s ease-in-out;
+}

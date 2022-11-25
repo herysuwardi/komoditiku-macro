@@ -1,0 +1,21 @@
+.wrapper__advantages {
+    background-color: #C8FFD4;
+    margin-top: 5rem;
+    padding: 4.5rem;
+}
+
+.wrapper__advantages h1 b {
+    color: #005728;
+}
+
+.wrapper__advantages h1 {
+    margin-bottom: 3rem;
+    font-size: 50px;
+}
+
+.wrapper__advantages p {
+    margin-top: -7px;
+    font-size: 18px;
+    font-weight: 500;
+}
+

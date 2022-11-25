@@ -1,0 +1,90 @@
+.about {
+    overflow-x: hidden;
+}
+
+.about-img {
+    width: 100%;
+    height: auto;
+    margin-top: 3rem;
+}
+
+.text-about h1 {
+    font-size: 55px;
+    margin-top: -25rem;
+    color: #ffffff;
+    margin-bottom: 2rem;
+}
+
+.text-about p {
+    color: #ffffff;
+    font-size: 22px;
+}
+
+.wrapper__about {
+    margin-top: 20rem;
+    margin-bottom: 8rem;
+}
+
+.logo-hero {
+    margin-left: 5rem;
+}
+
+.wrapper__about h1 {
+    margin-top: 5rem;
+    font-size: 45px;
+    font-weight: 700;
+}
+
+.wrapper__about h1 b {
+    color: #005728;
+}
+
+.wrapper__about p {
+    margin-top: 3rem;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.visi-misi {
+    background-color: #C8FFD4;
+    padding: 5rem;
+}
+
+.misi {
+    margin-left: 5rem;
+}
+
+.visi {
+    margin-left: 2rem;
+}
+
+.visi-misi h1 {
+    margin-bottom: 4rem;
+    font-size: 46px;
+}
+
+.visi-misi b {
+    color: #005728;
+}
+
+.visi-misi h2 {
+    font-size: 36px;
+    margin-top: 2rem;
+}
+
+.visi-misi p {
+    margin-top: 2rem;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.card__about {
+    background-color: rgb(255, 255, 255);
+    padding-top: 40px;
+    padding-bottom: 40px;
+    box-shadow: 0 4px 8px 0 rgb(221, 214, 214);
+    border-radius: 1rem;
+    border: 2px solid #005728;
+}   

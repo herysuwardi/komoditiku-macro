@@ -1,0 +1,17 @@
+.wrapper__marketing {
+    margin-bottom: 8rem;
+}
+
+.wrapper__marketing h1 {
+    font-size: 50px;
+    margin-top: 8rem;
+}
+
+.wrapper__marketing b {
+    color: #005728;
+}
+
+.v-marketing {
+    margin-top: 3rem;
+    border-radius: 1rem;
+}
